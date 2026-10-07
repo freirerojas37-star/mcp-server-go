@@ -1,6 +1,6 @@
 module github.com/ggoodman/mcp-server-go
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/MicahParks/keyfunc/v3 v3.6.1
@@ -27,9 +27,9 @@ require (
 	github.com/segmentio/encoding v0.5.3 // indirect
 	github.com/wk8/go-ordered-map/v2 v2.1.8 // indirect
 	github.com/yosida95/uritemplate/v3 v3.0.2 // indirect
-	golang.org/x/crypto v0.45.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
 	golang.org/x/oauth2 v0.30.0 // indirect
-	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	golang.org/x/time v0.9.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
